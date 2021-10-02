@@ -46,16 +46,16 @@ The biggest impact of the business so far is the change in lifestyle that it mak
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 ![image info](./photos/Screen\ Shot\ 2021-10-02\ at\ 2.32.09\ PM.png)
+A core metric to measure success in any business is revenue, how much money is the company bringing in. As seen in the picture above, revenue has consitently grown by $40 million a year and then jumping to $150 million from 2019 to 2020.
 
 * How is your company performing relative to competitors in the same domain?
-
+Compared to its competitors, venmo is still out-performing them. By consistently adopting new and better strategies venmo is still growing in revenue and leading their industry.
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
+My two biggest concerns for the company are security and availability. Since mobile payments are still new and a grey area there will be security reasons by nature. The other limitation is that venmo is only available in the U.S. 
 * Why do you think that offering this product or service would benefit the company?
+By making venmo worldwide, they then have a larger market which naturally increases business. And with the coombined security fix then it will just about be a finished product. 
 
-* What technologies would this additional product or service utilize?
 
-* Why are these technologies appropriate for your solution?
