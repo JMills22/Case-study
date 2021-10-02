@@ -45,6 +45,7 @@ Since there has been so much rapid growth in the industry, every major competito
 The biggest impact of the business so far is the change in lifestyle that it makes for its users. Money can be sore subject for many people but now With the touch a finger, the user can pay bills, transfer money to and from bank accounts, and many much more. At the end of the day a business starts and ends at the consumer, so venmo's biggest achievement has been making life easier for its users.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+![image info](./photos/Screen\ Shot\ 2021-10-02\ at\ 2.32.09\ PM.png)
 
 * How is your company performing relative to competitors in the same domain?
 
